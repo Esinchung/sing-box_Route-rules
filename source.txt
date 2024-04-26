@@ -28,3 +28,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml
 https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf
+https://raw.githubusercontent.com/SukkaW/Surge/master/Source/domainset/cdn.conf
