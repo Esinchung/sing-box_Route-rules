@@ -1,0 +1,21 @@
+{
+    "rules": [
+      {
+        "domain": [
+          "hls.mszgjy.com",
+          "clash.razord.top",
+          "yacd.metacubex.one",
+          "yacd.haishan.me",
+          "d.metacubex.one"
+        ]
+      },
+      {
+        "domain_suffix": [
+          ".yumixiu768.com",
+          ".2018cctv.com",
+          ".sportsteam53.com"
+        ]
+      }
+    ],
+"version": 1
+}
