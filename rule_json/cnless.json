@@ -6,6 +6,7 @@
         "www.libvideo.com",
         "www.yxssp.com",
         "zhibo8.cc",
+        "zhibo8.com",
         "zijieapi.com",
         "zijiecdn.com",
         "zijiecdn.net",
@@ -52,13 +53,13 @@
         "alipay",
         "aliyun",
         "baidu",
-        "beplay",
-        "zhibo8"
+        "beplay"
       ]
     },
     {
       "domain_suffix": [
         ".zhibo8.cc",
+        ".zhibo8.com",
         ".zijieapi.com",
         ".zijiecdn.com",
         ".zijiecdn.net",
